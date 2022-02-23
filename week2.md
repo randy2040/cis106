@@ -8,4 +8,16 @@ What is Raspberry Pi?
 * Control a Robot.
 * Build a Stop Motion Camera.
 * Replace Your Desktop PC With a Raspberry Pi
-![a1](a1.png)
+![a1](a1.png) 
+
+What is the basics of virtualization?
+*  The process of running a virtual instance of a computer system in a layer abstracted from the actual hardware 
+  Types of virtualization?
+* Desktop Virtualization.
+* Application Virtualization.
+* Server Virtualization.
+* Network Virtualization.
+* Storage Virtualization. 
+![q2](q2.1.png)
+![q3](q3.1.png)
+![q4](q4.1.png)
