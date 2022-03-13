@@ -21,11 +21,11 @@ semester : sp22
 
 ## table 2
 
-| command | description | syntax | example |
-| ------- | ----------- | ------ | ------- |
-| cd      |             |        |         |
-| pwd     |             |        |         |
-| ls      |             |        |         |
+| command | description               | syntax | example                                 |
+| ------- | ------------------------- | ------ | --------------------------------------- |
+| cd      | change directory          | cd ~   | cd ../                                  |
+| pwd     | current directory         | pwd    | pwd                                     |
+| ls      | list content of directory | ls -a  | list all files inside a given directory |
 
 ## question 2 
 * pwd command :used for displaying the current working directory
